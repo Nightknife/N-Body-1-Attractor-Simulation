@@ -1,9 +1,6 @@
 package domein;
 
-/**
- *
- * @author Jodi
- */
+
 public class Vector {
     private double x,y;
 
