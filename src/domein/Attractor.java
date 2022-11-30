@@ -3,10 +3,7 @@ package domein;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 
-/**
- *
- * @author Jodi
- */
+
 public class Attractor {
 
     private final Vector pos;
