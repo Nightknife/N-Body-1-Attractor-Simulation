@@ -2,10 +2,7 @@ package StaticMethods;
 
 import domein.Vector;
 
-/**
- *
- * @author Jodi
- */
+
 public class Vec {
 
     public static Vector sub(Vector v1, Vector v2) {
