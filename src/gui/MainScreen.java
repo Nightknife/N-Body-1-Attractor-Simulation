@@ -9,10 +9,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.util.Duration;
 import physicsfx.PhysicsFX;
 
-/**
- *
- * @author Jodi
- */
+
 public class MainScreen extends BorderPane {
 
     //gameloop variables
