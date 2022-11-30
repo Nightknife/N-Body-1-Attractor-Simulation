@@ -9,10 +9,7 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.input.MouseButton;
 import javafx.scene.paint.Color;
 
-/**
- *
- * @author Jodi
- */
+
 public class DrawScreen extends Canvas {
 
     private GraphicsContext gtx;
